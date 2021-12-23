@@ -8,7 +8,7 @@
         Title="ListPhone" Height="418" Width="700">
     <StackPanel x:Name="stackPanel">
         <DockPanel Height="50" LastChildFill="False">
-            <Button x:Name="add" Content="Add" Margin="10,0,0,0" FontSize="20" Cursor="Pen" Padding="10,1,10,1" Click="Add_Click" Width="58"/>
+            <Button x:Name="Add" Content="Add" Margin="10,0,0,0" FontSize="20" Cursor="Pen" Padding="10,1,10,1" Click="Add_Click" Width="58"/>
             <Button x:Name="Clear" Content="Clear" Margin="10,0,0,0" FontSize="20" Padding="10,1,10,1" Click="Clear_Click" Width="79" />
         </DockPanel>
 
